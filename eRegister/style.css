@@ -1,0 +1,15 @@
+body{
+    background-color: #fff;
+    font-family: 'Montserrat';
+}
+
+.myContainer .myGroup .myButton a{
+    color: white;
+   
+}
+
+.myContainer .myGroup .myButton{
+    width: 10px;
+    padding: 3000px;
+
+}
